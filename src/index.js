@@ -1,5 +1,5 @@
-let musics = ["Roses", "Ufo", "Killer-Queen"];
-let authors = ["Saint JHN", "Sneaky Sound System", "Queen"];
+let musics = ["Roses", "Ufo", "Killer-Queen",'Raging'];
+let authors = ["Saint JHN", "Sneaky Sound System", "Queen","Kygo"];
 
 let musicImg = window.document.getElementById("musicImg");
 let musicName = window.document.getElementById("name");
